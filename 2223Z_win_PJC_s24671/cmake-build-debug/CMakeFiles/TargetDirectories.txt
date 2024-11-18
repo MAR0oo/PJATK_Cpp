@@ -1,0 +1,3 @@
+D:/Projekty C++ do szkoly/2223Z_win_PJC_s24671/cmake-build-debug/CMakeFiles/2223Z_win_PJC_s24671.dir
+D:/Projekty C++ do szkoly/2223Z_win_PJC_s24671/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projekty C++ do szkoly/2223Z_win_PJC_s24671/cmake-build-debug/CMakeFiles/rebuild_cache.dir
